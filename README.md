@@ -17,7 +17,7 @@ https://www.youtube.com/watch?v=JWjFCWXJ9zs
 
 ## 📋 Features
 
-- Orbit the camera around the player when you die.
+- Rotate the camera around the player when you are dead.
 - Configurable orbit distance.
 - Works on mouse + keyboard and controller!
 
